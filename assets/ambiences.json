@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Forest Focus",
+    "tag": "Focus",
+    "duration": 1300,
+    "description": "Immerse yourself in the gentle sounds of a forest. Perfect for deep work and concentration.",
+    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=500&h=500&fit=crop",
+    "features": ["Breeze", "Binaural", "Mist"],
+    "audioUrl": "assets/audio/forest.mp3"
+  },
+  {
+    "id": "2",
+    "title": "Ocean Waves",
+    "tag": "Calm",
+    "duration": 1000,
+    "description": "Soothing ocean waves to wash away stress and anxiety.",
+    "imageUrl": "https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=500&h=500&fit=crop",
+    "features": ["Warm Light", "Soft Rain"],
+    "audioUrl": "assets/audio/ocean.mp3"
+  },
+  {
+    "id": "3",
+    "title": "Rainy Night",
+    "tag": "Sleep",
+    "duration": 1900,
+    "description": "Fall asleep to the peaceful sound of rain on a quiet night.",
+    "imageUrl": "https://wallpaperaccess.com/full/102705.jpg",
+    "features": ["Soft Rain", "Mist"],
+    "audioUrl": "assets/audio/rain.mp3"
+  },
+  {
+    "id": "4",
+    "title": "Mountain Meditation",
+    "tag": "Reset",
+    "duration": 1600,
+    "description": "Ground yourself with the serenity of mountain peaks and fresh air.",
+    "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=500&fit=crop",
+    "features": ["Breeze", "Warm Light", "Binaural"],
+    "audioUrl": "assets/audio/mountain.mp3"
+  },
+  {
+    "id": "5",
+    "title": "Coffee Shop Ambience",
+    "tag": "Focus",
+    "duration": 1450,
+    "description": "Background noise from a cozy coffee shop to enhance productivity.",
+    "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500&h=500&fit=crop",
+    "features": ["Soft Rain", "Mist"],
+    "audioUrl": "assets/audio/coffee.mp3"
+  },
+  {
+    "id": "6",
+    "title": "Meditation Bell",
+    "tag": "Calm",
+    "duration": 700,
+    "description": "Mindful meditation with gentle bells and silence.",
+    "imageUrl": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=500&h=500&fit=crop",
+    "features": ["Binaural"],
+    "audioUrl": "assets/audio/bell.mp3"
+  }
+]
