@@ -168,7 +168,7 @@ The APK will be available at: `build/app/outputs/flutter-apk/app-release.apk`
 
 ## 📦 APK Download
 
-Download the latest release APK from the [Releases](https://github.com/KRISHNASAPKAL999/immersive-session-journal/releases) page.
+Download the latest release APK from the [Releases](apk/app-release.apk) page.
 
 ### Installation Instructions:
 1. Enable "Unknown Sources" in your Android device settings
